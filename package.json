@@ -1,0 +1,27 @@
+{
+  "name": "firstnodeapp",
+  "version": "1.0.0",
+  "description": "restfull api using express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harsh",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "^1.16.1",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.14.1",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "^4.8.5",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*"
+  }
+}
